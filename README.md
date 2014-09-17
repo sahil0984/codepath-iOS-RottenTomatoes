@@ -1,12 +1,12 @@
-codepath-iOS-RottenTomatoes
+What2Watch (Rotten Tomatoes Client) <br>
 ===========================
 
 Week1 Codepath iOS project - Rotten Tomatoes Client
+Time spent: 12 hrs
 
 This client lets you to browse latest movies at box office and movies on DVD. It also lets you to search for movies from the Rotten Tomatoes database and view details.
 
-What2Watch (Rotten Tomatoes Client) <br>
-===========================
+Following features were implented;
 
 [DONE] User can view a list of movies from Rotten Tomatoes. Poster images must be loading asynchronously. <br>
 [DONE] User can view movie details by tapping on a cell <br>
