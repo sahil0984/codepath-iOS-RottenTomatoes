@@ -8,13 +8,13 @@ This client lets you to browse latest movies at box office and movies on DVD. It
 
 Following features were implented;
 
-[DONE] User can view a list of movies from Rotten Tomatoes. Poster images must be loading asynchronously. <br>
+<b>[DONE]</b> User can view a list of movies from Rotten Tomatoes. Poster images must be loading asynchronously. <br>
 [DONE] User can view movie details by tapping on a cell <br>
 [DONE] User sees loading state while waiting for movies API. You can use one of the 3rd party libraries at cocoacontrols.com. <br>
 [DONE] User sees error message when there's a networking error. You may not use UIAlertView to display the error. See this screenshot for what the error message should look like: network error screenshot. <br>
 [DONE] User can pull to refresh the movie list. <br>
 
-OPTIONALS:
+OPTIONALS: <br>
 [DONE] All images fade in (optional) <br>
 [DONE] For the large poster, load the low-res image first, switch to high-res when complete (optional) <br>
 [DONE] All images should be cached in memory and disk. In other words, images load immediately upon cold start (optional). <br>
