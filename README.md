@@ -23,7 +23,9 @@ Following features were implented;
 <b>[DONE]</b> Add a tab bar for Box Office and DVD. (optional) <br>
 <b>[DONE]</b> Add a search bar. (optional) <br>
 
-Walkthrough of Tipit: <br> <br>
+Walkthrough of What2Watch: <br> <br>
 ![Video Walkthrough](what2watch.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+Note: The network error banner works but is not shown in the walkthrough since there is no easy way to turn off data on the simulator.
